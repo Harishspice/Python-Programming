@@ -29,7 +29,7 @@ b=temp
 print("Swapped values are: {} {}".format(a,b))
 ```
 ## OUTPUT:
-![output](/Screenshot%20from%202022-12-26%2008-13-16.png)
+![image](https://github.com/Harishspice/Python-Programming/assets/117935868/f7193449-83ba-46fc-a16d-af0f7f52c542)
 
 
 ## RESULT:
